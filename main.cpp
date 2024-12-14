@@ -7,6 +7,6 @@ int main()
     printf("Hello world!3");
     printf("Hello world!4");
     printf("Hello world!5");
-    printf("欢迎来到GitHub!");
+    printf("永远欢迎来到GitHub!");
     return 0;
 }
